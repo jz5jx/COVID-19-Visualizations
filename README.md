@@ -18,5 +18,4 @@ Visualizations and Report found in report.pdf
 
 
 Conclusions: 
-Conclusions: 
 The nature of the virus is highly dynamic. As because the virus may be transmitted through the air and through physical contact many people will become infected in the coming weeks. There are many different factors associated with susceptibility and infection rate however the virus is spreading in a very fast pace. With the new restrictions on travel and other preventative measures being introduced to society, the only way to see if the virus is going to be tapered off is with time and future observation
