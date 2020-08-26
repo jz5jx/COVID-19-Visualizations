@@ -1,7 +1,7 @@
 # COVID-19-Visualizations
 
-Visualizations from web scrapping on COVID-19
-Visualizations and Report found in report.pdf
+Data cleaning, scraping, and organizing to find the most accurate and relevant datasets to explore the disease outbreak.
+Using R software and Packages “Sf”, “Tidyverse”, “Dplyr”, to create GIS maps, graphs, and different types of data visualizations illustrating the rate of infection and different analytical breakdowns of the disease phenomenon.
 
 
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/42184372/91241989-37d09480-e714-11ea-90d3-24f21003cda4.png">
